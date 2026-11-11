@@ -1,0 +1,11 @@
+#Travel
+country - країна | a nation with its own government and land
+capital - столиця | the most important city in a country, where the government is located
+flag - прапор | a piece of cloth with a special design that represents a country
+city - місто | a large and important town where many people live
+language - мова | the words and system of communication used by people of a country
+famous - відомий | known and recognized by many people
+beautiful - красивий | pleasing to look at and very attractive
+interesting - цікавий | keeping your attention and making you want to know more
+traditional food - традиційна їжа | food that a particular culture or country has made and eaten for a long time
+landmark - визначне місце | an object or place that is easy to recognize and helps you know where you are
