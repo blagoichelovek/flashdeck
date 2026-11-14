@@ -1,13 +1,25 @@
-#Jobs
-doctor - лікар | a person who is trained to treat sick or injured people
-teacher - вчитель | a person whose job is to teach students, especially in a school
-cook / chef - кухар | a person whose job is to prepare and cook food
-police officer - поліцейський | a member of the police force whose job is to keep order and make people obey the law
-firefighter - пожежник | a person whose job is to put out fires and save people from danger
-vet - ветеринар | a doctor who treats sick or injured animals
-dentist - стоматолог | a person whose job is to check and treat teeth
-driver - водій | a person who drives a vehicle, such as a bus, car, or truck
-artist - художник | a person who creates art, such as paintings or drawings
-singer - співак / співачка | a person who sings, especially as a job
-pilot - пілот | a person who operates the flying controls of an aircraft
-astronaut - астронавт | a person who is trained to travel and work in space
+#Jobs and professions (beginner)
+doctor - лікар | a person who helps sick people get better
+> This is a doctor. | Це лікар.
+teacher - вчитель | a person who works in a school and helps students learn
+> This is a teacher. | Це вчитель.
+cook / chef - кухар | a person who makes food in a kitchen or restaurant
+> This is a cook. // This is a chef. | Це кухар.
+police officer - поліцейський | a person who keeps people safe and stops crime
+> This is a police officer. | Це поліцейський.
+firefighter - пожежник | a person who puts out fires
+> This is a firefighter. | Це пожежник.
+vet - ветеринар | a doctor who helps sick animals
+> This is a vet. | Це ветеринар.
+dentist - стоматолог | a doctor who looks after your teeth
+> This is a dentist. | Це стоматолог.
+driver - водій | a person who drives a bus, a car or a truck
+> This is a driver. | Це водій.
+artist - художник | a person who paints or draws pictures
+> This is an artist. | Це художник.
+singer - співак / співачка | a person who sings songs
+> This is a singer. | Це співак.
+pilot - пілот | a person who flies a plane
+> This is a pilot. | Це пілот.
+astronaut - астронавт | a person who travels into space
+> This is an astronaut. | Це астронавт.
